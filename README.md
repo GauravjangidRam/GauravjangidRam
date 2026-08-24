@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=1&height=250&section=header&text=Gaurav%20Jangid&fontSize=70&fontAlignY=35&desc=Software%20Developer%20%7C%20Backend%20Engineer%20%7C%20PHP%20%26%20Laravel&descAlignY=55&descSize=20&fontColor=ffffff&animation=twinkling" />
+<!-- Animated Header (Fixed URL) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gaurav%20Jangid&fontSize=70&fontAlignY=35&desc=Software%20Developer%20%7C%20Backend%20Engineer&descAlignY=55&descSize=20&fontColor=ffffff&animation=twinkling&v=2" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=👋+Hello,+I'm+Gaurav+Jangid;🚀+Full+Stack+Developer+%7C+MCA+Graduate;⚡+Building+Scalable+E-Commerce+Solutions;🛠️+Laravel+%7C+PHP+%7C+JavaScript+%7C+AWS;🎯+Passionate+about+Clean+Code+%26+Performance" alt="Typing SVG" />
+<!-- Typing SVG (Switched to stable Heroku app server to avoid 402 limits) -->
+<a href="https://github.com/GauravjangidRam">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=👋+Hello,+I'm+Gaurav+Jangid;🚀+Full+Stack+Developer+%7C+MCA+Graduate;⚡+Building+Scalable+E-Commerce+Solutions;🛠️+Laravel+%7C+PHP+%7C+JavaScript+%7C+AWS;🎯+Passionate+about+Clean+Code+%26+Performance&v=2" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,7 +35,8 @@
     </td>
     <td valign="top" width="35%">
       <div align="center">
-        <img src="https://media.giphy.com/media/qgQUggCGlnyxO/giphy.gif" width="220" alt="coding" style="border-radius: 10px;" />
+        <!-- Reverted to your original working GIF -->
+        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" alt="coding" style="border-radius: 10px;" />
       </div>
     </td>
   </tr>
@@ -115,7 +116,7 @@
 
 <div align="center">
   <!-- Footer Wave -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&v=2" />
   
   <p><b>"Code is poetry written in logic — make it beautiful."</b></p>
   <p><i>Made with 💜 by Gaurav Jangid</i></p>
