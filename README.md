@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Animated Header (Fixed URL) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gaurav%20Jangid&fontSize=70&fontAlignY=35&desc=Software%20Developer%20%7C%20Backend%20Engineer&descAlignY=55&descSize=20&fontColor=ffffff&animation=twinkling&v=2" />
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gaurav%20Jangid&fontSize=70&fontAlignY=35&desc=Software%20Developer%20%7C%20Backend%20Engineer&descAlignY=55&descSize=20&fontColor=ffffff&animation=twinkling&v=4" />
 
-<!-- Typing SVG (Switched to stable Heroku app server to avoid 402 limits) -->
+<!-- Typing SVG -->
 <a href="https://github.com/GauravjangidRam">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=👋+Hello,+I'm+Gaurav+Jangid;🚀+Full+Stack+Developer+%7C+MCA+Graduate;⚡+Building+Scalable+E-Commerce+Solutions;🛠️+Laravel+%7C+PHP+%7C+JavaScript+%7C+AWS;🎯+Passionate+about+Clean+Code+%26+Performance&v=2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=👋+Hello,+I'm+Gaurav+Jangid;🚀+Full+Stack+Developer+%7C+MCA+Graduate;⚡+Building+Scalable+E-Commerce+Solutions;🛠️+Laravel+%7C+PHP+%7C+JavaScript+%7C+AWS;🎯+Passionate+about+Clean+Code+%26+Performance&v=4" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,7 +35,6 @@
     </td>
     <td valign="top" width="35%">
       <div align="center">
-        <!-- Reverted to your original working GIF -->
         <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" alt="coding" style="border-radius: 10px;" />
       </div>
     </td>
@@ -65,16 +64,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GauravjangidRam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=GauravjangidRam&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GauravjangidRam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&count_private=true&include_all_commits=true&v=4" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravjangidRam&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA&v=4" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravjangidRam&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravjangidRam&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&count_private=true&v=4" width="45%" />
   &nbsp;&nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=GauravjangidRam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=3" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GauravjangidRam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=3&v=4" width="45%" />
 </div>
 
 ---
@@ -116,7 +115,7 @@
 
 <div align="center">
   <!-- Footer Wave -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&v=2" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&v=4" />
   
   <p><b>"Code is poetry written in logic — make it beautiful."</b></p>
   <p><i>Made with 💜 by Gaurav Jangid</i></p>
